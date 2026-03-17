@@ -24,6 +24,6 @@
 
 </div> <br>
 
-Cursando ensino médio técnico no colégio Cotemig e entusiasta da tecnologia!😉
+Cursando Engenharia de Software na faculdade PUC Minas
 
 </div>
