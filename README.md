@@ -4,8 +4,6 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-ignacio-ferreira-souza-6517562b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Henrique-Ignacio&theme=github-compact&hide_border=true&hide_title=true&line=ffffff&color=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## Tecnologias que uso no meu dia a dia
 
 <div style="display: inline_block"><br>
